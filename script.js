@@ -79,9 +79,9 @@ function showManualSection(sectionId) {
 const downloadConfig = {
   desktop: {
     windows: {
-      url: "https://www.mediafire.com/file/kmr0gwmsrzwofix/kipapp-1.0.1-setup.exe/file",
-      directUrl: "https://www.mediafire.com/file/kmr0gwmsrzwofix/kipapp-1.0.1-setup.exe/file", // URL directa si la tienes
-      filename: "kipapp-1.0.1-setup.exe",
+      url: "https://www.mediafire.com/file/5tclo8mot6ku4nd/kipapp-1.0.2-setup.exe/file",
+      directUrl: "https://www.mediafire.com/file/5tclo8mot6ku4nd/kipapp-1.0.2-setup.exe/file", // URL directa si la tienes
+      filename: "kipapp-1.0.2-setup.exe",
       size: "90 MB",
       external: true, // Indica que es un enlace externo
     },
